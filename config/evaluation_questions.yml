@@ -1,0 +1,16 @@
+questions:
+  - question: "What is the transformer architecture?"
+    expected_keywords:
+      - "attention"
+      - "encoder"
+      - "decoder"
+  - question: "Explain BERT model"
+    expected_keywords:
+      - "bidirectional"
+      - "pre-training"
+      - "masked"
+  - question: "What is RAG?"
+    expected_keywords:
+      - "retrieval"
+      - "generation"
+      - "augmented"
